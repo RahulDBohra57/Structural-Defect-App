@@ -1,0 +1,5 @@
+dotenv
+streamlit
+pillow
+google.generativeai
+datetime
