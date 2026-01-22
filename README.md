@@ -8,13 +8,7 @@
 
 ## Problem Statement
 
-In large-scale construction projects, inspection of civil structures such as:
-
-- Buildings  
-- Bridges  
-- Industrial facilities  
-
-is typically performed through **manual visual checks**.
+In large-scale construction projects, inspection of civil structures such as: Buildings, Bridges and Industrial facilities is typically performed through **manual visual checks**.
 
 This traditional approach suffers from:
 
